@@ -17,6 +17,8 @@ You should use the following components somewhere on the site:
 - Intro text, subheader, and a paragraph centered on the page
 - Footer with sitemap
 
+---
+
 ###CSS Basic Concepts
 
 ####Specificity
